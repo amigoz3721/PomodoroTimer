@@ -1,0 +1,68 @@
+/* Picker label */
+"Mode" = "模式";
+
+/* Window Title */
+"Pomodoro Timer" = "番茄时钟";
+
+/* PomodoroMode */
+"Focus" = "专注";
+"Short Break" = "短休";
+"Long Break" = "长休";
+
+/* ContentView */
+"Running" = "运行中";
+"Paused" = "已暂停";
+"Ready" = "就绪";
+"Start" = "开始";
+"Pause" = "暂停";
+"Reset" = "重置";
+"Menu" = "菜单";
+"Settings" = "设置";
+"Statistics" = "统计";
+"%lld sessions completed" = "已完成 %lld 个番茄";
+
+/* SettingsView */
+"Focus duration (min)" = "专注时长（分钟）";
+"Short break (min)" = "短休时长（分钟）";
+"Long break (min)" = "长休时长（分钟）";
+"Long break after %lld sessions" = "每 %lld 轮后长休";
+"Done" = "完成";
+
+/* StatisticsView */
+"Today" = "今日";
+"This Week" = "本周";
+"Total" = "总计";
+"No sessions yet" = "暂无记录";
+"Date" = "日期";
+"Mode" = "模式";
+"Duration" = "时长";
+"%lld min" = "%lld 分钟";
+
+/* Language */
+"Language" = "语言";
+
+/* Theme */
+"Tomato" = "番茄红";
+"Ocean" = "海洋蓝";
+"Forest" = "森林绿";
+"Lavender" = "薰衣草紫";
+"Sunset" = "日落橙";
+"Theme" = "主题配色";
+"Color Scheme" = "外观模式";
+"System" = "跟随系统";
+"Light" = "浅色";
+"Dark" = "深色";
+
+/* Menu bar */
+"Show Window" = "显示主窗口";
+"Quit" = "退出";
+
+/* Notifications */
+"Time for a break!" = "该休息了！";
+"Break over!" = "休息结束！";
+"Great job! Take a break." = "做得好！休息一下吧。";
+"Break finished. Ready for the next focus session?" = "休息结束，准备开始下一轮专注吧。";
+"OK" = "好";
+"Notifications" = "通知";
+"If banners are silent, set Pomodoro Timer to Alerts and allow sounds in System Settings." = "若只有通知中心记录、没有横幅或声音，请在系统设置中将本应用的通知样式设为「提醒」，并开启声音。";
+"Open Notification Settings" = "打开系统通知设置";

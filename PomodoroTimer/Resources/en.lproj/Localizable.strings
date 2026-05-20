@@ -1,0 +1,68 @@
+/* Picker label */
+"Mode" = "Mode";
+
+/* Window Title */
+"Pomodoro Timer" = "Pomodoro Timer";
+
+/* PomodoroMode */
+"Focus" = "Focus";
+"Short Break" = "Short Break";
+"Long Break" = "Long Break";
+
+/* ContentView */
+"Running" = "Running";
+"Paused" = "Paused";
+"Ready" = "Ready";
+"Start" = "Start";
+"Pause" = "Pause";
+"Reset" = "Reset";
+"Menu" = "Menu";
+"Settings" = "Settings";
+"Statistics" = "Statistics";
+"%lld sessions completed" = "%lld sessions completed";
+
+/* SettingsView */
+"Focus duration (min)" = "Focus duration (min)";
+"Short break (min)" = "Short break (min)";
+"Long break (min)" = "Long break (min)";
+"Long break after %lld sessions" = "Long break after %lld sessions";
+"Done" = "Done";
+
+/* StatisticsView */
+"Today" = "Today";
+"This Week" = "This Week";
+"Total" = "Total";
+"No sessions yet" = "No sessions yet";
+"Date" = "Date";
+"Mode" = "Mode";
+"Duration" = "Duration";
+"%lld min" = "%lld min";
+
+/* Language */
+"Language" = "Language";
+
+/* Theme */
+"Tomato" = "Tomato";
+"Ocean" = "Ocean";
+"Forest" = "Forest";
+"Lavender" = "Lavender";
+"Sunset" = "Sunset";
+"Theme" = "Theme";
+"Color Scheme" = "Color Scheme";
+"System" = "System";
+"Light" = "Light";
+"Dark" = "Dark";
+
+/* Menu bar */
+"Show Window" = "Show Window";
+"Quit" = "Quit";
+
+/* Notifications */
+"Time for a break!" = "Time for a break!";
+"Break over!" = "Break over!";
+"Great job! Take a break." = "Great job! Take a break.";
+"Break finished. Ready for the next focus session?" = "Break finished. Ready for the next focus session?";
+"OK" = "OK";
+"Notifications" = "Notifications";
+"If banners are silent, set Pomodoro Timer to Alerts and allow sounds in System Settings." = "If you only see entries in Notification Center with no banner or sound, set Pomodoro Timer to Alerts and enable sounds in System Settings.";
+"Open Notification Settings" = "Open Notification Settings";
